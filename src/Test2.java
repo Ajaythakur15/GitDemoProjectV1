@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Test1 {
+public class Test2 {
 
 	public static void getCharCount(String name) {
 
@@ -27,12 +27,6 @@ public class Test1 {
 			getCharCount("tt");
 			getCharCount("testing java test");
 			getCharCount("t ");
-			getCharCount(" ");
-			getCharCount("  ");
-			getCharCount("sel sel sel");
-			getCharCount(" sel sel sel ");
-			getCharCount(" sel sel sel ");
-			getCharCount(" sel1 sel2 sel2 ");
 
 			// test --> t=2, e =1, s =1
 			// t --> t=1
