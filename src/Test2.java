@@ -26,7 +26,7 @@ public class Test2 {
 			getCharCount("t");
 			getCharCount("tt");
 			getCharCount("testing java test");
-			getCharCount("t ");
+			getCharCount("t java test1 ");
 
 			// test --> t=2, e =1, s =1
 			// t --> t=1
