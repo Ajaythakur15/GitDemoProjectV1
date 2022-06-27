@@ -31,6 +31,7 @@ public class Test1 {
 			getCharCount("  ");
 			getCharCount("sel sel sel");
 			getCharCount(" sel sel sel ");
+			getCharCount(" sel sel sel ");
 
 			// test --> t=2, e =1, s =1
 			// t --> t=1
